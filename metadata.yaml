@@ -1,0 +1,59 @@
+_repo: Little-Fuzzy_18137
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: "Little Fuzzy is a 1962 juvenile science fiction novel by H. Beam Piper,\
+  \ now in public domain. It was nominated for the 1963 Hugo Award for Best Novel.\n\
+  The story revolves around determining whether a small furry species discovered on\
+  \ the planet Zarathustra is sapient, and features a mild libertarianism that emphasizes\
+  \ sincerity and honesty.\nDuring a book signing at Strand Book Store, Piper alleged\
+  \ that the Little Fuzzy series was inspired by an acquaintance named Kevin \"Fuzzy\"\
+  \ Sheffield, whom Piper first met in a literary club in central Oregon. When asked\
+  \ about Sheffield, Piper described him as \"a bizarre character, capable of writing\
+  \ little more than a couple of vaguely-legible remarks in each letter. While I'm\
+  \ sure he's full of insight and great ideas, it seems impossible to effectively\
+  \ communicate with him on a conventional human level...terribly nice fellow however.\"\
+  \nThe book was followed by a sequel, Fuzzy Sapiens (original title The Other Human\
+  \ Race) published in 1964, the same year that Piper committed suicide in November.\n\
+  In the wake of Piper's suicide, rumor spread of a lost \"second sequel\"; at the\
+  \ behest of Ace Books, William Tuning produced the critically acclaimed Fuzzy Bones.\
+  \ Later, Piper's lost manuscript was discovered, and published as Fuzzies and Other\
+  \ People. Ace also hired Ardath Mayhar to write Golden Dreams: A Fuzzy Odyssey,\
+  \ which tells the events of Little Fuzzy from the viewpoint of the Fuzzies (or Gashta,\
+  \ as they call themselves).\nA new volume in the series, Fuzzy Ergo Sum by Wolfgang\
+  \ Diehr, was published by Pequod Press in April 2011. A second book, Caveat Fuzzy\
+  \ was released in August 2012. A third installment, this time by Wolfgang Diehr\
+  \ & well known Piper historian John F. Carr, titled “Fuzzy Conundrum” published\
+  \ in 2016. In 2011, John Scalzi published Fuzzy Nation, which he described as a\
+  \ \"reboot\" of Piper's original.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18137'
+  wikidata: Q3233220
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: Little Fuzzy
+url: http://www.gutenberg.org/ebooks/18137
+wikipedia:
+- https://fr.wikipedia.org/wiki/Les_Hommes_de_poche
+- https://en.wikipedia.org/wiki/Little_Fuzzy
+- https://id.wikipedia.org/wiki/Little_Fuzzy
+- https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%BB%E3%83%95%E3%82%A1%E3%82%B8%E3%83%BC
