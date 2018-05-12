@@ -36,6 +36,8 @@ description: "Little Fuzzy is a 1962 juvenile science fiction novel by H. Beam P
   \ & well known Piper historian John F. Carr, titled “Fuzzy Conundrum” published\
   \ in 2016. In 2011, John Scalzi published Fuzzy Nation, which he described as a\
   \ \"reboot\" of Piper's original.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18137#Little-Fuzzy
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-04-09'
 gutenberg_type: Text
